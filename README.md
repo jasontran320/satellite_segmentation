@@ -112,7 +112,7 @@ Lastly is the UNet++ score with a score of as follows(Test set 1 | Test set 2):
 ## Installation
 Clone the repository:
 ```
-  git clone https://github.com/cs175cv-s2024/final-project-neural-hivemind.git
+  git clone https://github.com/jasontran320/satellite_segmentation.git
 ```
 In the directory, create a virtual environment:
 
